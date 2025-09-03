@@ -1,8 +1,15 @@
 from google import genai
 from topicModelling.formatCreation import validateAndTrimBrackets
+from dotenv import load_dotenv
+import os
+
+# Load variables from .env
+load_dotenv()
+# Get key from env
+api_key = os.getenv("GOOGLE_API_KEY")
 
 def reasoning(average_pause_sec, long_pause_ratio, speech_rate_wps, speech_rate_stability, filler_density, pitch_variability, energy_variability, voicing_ratio, pitch_smoothness, energy_smoothness, composite_fluency_score) :
-    client = genai.Client(api_key="AIzaSyD5gL8CLHmTO4wpGbQl3FjFjqTg7FZDDlk")
+    client = genai.Client(api_key=api_key)
 
     input_json = f"""
     {{
