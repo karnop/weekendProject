@@ -20,5 +20,7 @@ combined_dict = {}
 combined_dict.update(topicJson)
 combined_dict.update(speechJson)
 
-print(combined_dict)
+with open("demo.json", 'w') as json_file:
+    json.dump(combined_dict, json_file, indent=4)
+
 print(type(combined_dict))
