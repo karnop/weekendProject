@@ -1,0 +1,30 @@
+{
+  "score": 0.05,
+  "off_topic_suggestions": [
+    "Let's focus on the hackathon's goals and how each person's skills can contribute to our team.",
+    "Remember to steer the conversation back to specific team roles and project ideas for the hackathon.",
+    "It's great to discuss competitive programming, but for hackathon team formation, let's explore how those skills apply to a collaborative project."
+  ],
+  "Fluency Score (0-1)": "0.569",
+  "Fluency Score (%)": "56.9",
+  "analysis_summary": {
+    "fluency_level": "Needs Improvement",
+    "interpretation": "The speaker exhibits an erratic speaking style, rapidly delivering words but then halting for extended pauses. While their pitch is expressive and filler words are minimal, the overall flow is severely disrupted by inconsistent timing."
+  },
+  "strengths": [
+    "Minimal use of filler words, indicating a good grasp of content without relying on verbal crutches.",
+    "Expressive pitch with good variability and smooth transitions, suggesting the speaker can convey emotion and emphasis through their voice's melody.",
+    "High vocal clarity, with a strong voicing ratio that indicates clear and articulate speech."
+  ],
+  "weaknesses": [
+    "Excessive and prolonged pauses, with over half of all pauses being significantly long, which severely disrupts the natural flow of speech.",
+    "Highly unstable and erratic speech rate, fluctuating dramatically between speaking at an extremely rapid pace and then taking extended, disruptive breaks.",
+    "Lack of dynamic range in vocal energy or volume, which can make the delivery sound somewhat monotonous despite good pitch variation."
+  ],
+  "actionable_suggestions": [
+    "**Practice Controlled Pacing**: Use a metronome or a pacing app to practice speaking at a consistent, moderate tempo. Focus on delivering ideas in short, coherent \"chunks\" and pausing briefly and intentionally between them, rather than within thoughts or for extended periods.",
+    "**Shorten and Strategize Pauses**: Actively work on reducing the length and frequency of unintentional, long pauses. Before speaking, take a moment to formulate your thought, then deliver it smoothly. If you need to pause, aim for shorter, purposeful breaks at natural sentence or thought boundaries.",
+    "**Vary Vocal Dynamics**: Read texts aloud, consciously experimenting with increasing and decreasing your volume to emphasize key words or phrases. Record yourself and listen back to identify areas where more vocal energy could enhance engagement and prevent a monotonous delivery.",
+    "**Diaphragmatic Breathing Exercises**: Incorporate deep breathing exercises to improve breath control. Better breath management can help sustain a steady speaking rate, reduce the need for long pauses to catch breath, and support more consistent vocal energy."
+  ]
+}

@@ -1,0 +1,15 @@
+04 september 2025
+
+- fact checking
+- Delivery coaching: body language, confidence, intonation — maybe use video input down the line.
+- Custom goals: let users say, “I want to sound more confident / persuasive / academic” → feedback is tuned.
+
+- topic relevance over time
+    What: Relevance score plotted across transcript timeline.
+    Why: Shows when speaker wandered off-topic.
+    How: Split transcript into chunks → embedding similarity vs topic.
+
+8. Sentiment / Tone
+    What: Sentiment polarity over time (positive/neutral/negative).
+    Why: Helps with persuasion or sales pitch training.
+    How: Apply sentiment model on sentences.
